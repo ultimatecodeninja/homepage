@@ -3,19 +3,19 @@ html{
 }
 
 body{
-    background-image: url(/home/looser/Документы/homepage/img/Photo-0061.jpg);
+    background-image: url(/Photo-0061.jpg);
     background-position: center right;
     background-repeat: no-repeat;
 }
 
 main{
-    background-image: url(/home/looser/Документы/homepage/img/Big-data-123-1024x768.jpg);
+    background-image: url(/Big-data-123-1024x768.jpg);
     background-position: bottom;
     background-repeat: no-repeat;
 }
 
 footer{
-    background-image: url("/home/looser/Документы/homepage/img/Picture 038.jpg");
+    background-image: url("/Picture 038.jpg");
     background-repeat: no-repeat;
 }
 
